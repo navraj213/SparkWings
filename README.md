@@ -1,6 +1,3 @@
-# SparkWings
-Machine learning model to predict final passenger count to optimize meal quantity and maximize cargo transport
-
 # ✈️ SparkWings: Predicting Airline Meal Demand & Cargo Efficiency with Machine Learning
 
 > A project by Benoy Thomas, Navraj Singh, Luis Jaco  
