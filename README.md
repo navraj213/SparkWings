@@ -109,3 +109,10 @@ Built using `Apache Spark 3.4.2` on `Hadoop 3`. Core components include:
     - **Premium:** 945.7 → 822.8 kg CO₂e
     - **Upper:** 1719 → 1495.5 kg CO₂e
 
+![image](https://github.com/user-attachments/assets/3287a282-b608-431f-97a0-9a56eb93d4e9)
+![image](https://github.com/user-attachments/assets/897e6853-9998-4ae1-a5d1-fd558b1b1160)
+![image](https://github.com/user-attachments/assets/95342a38-4d17-487b-a6e4-5ddfda5e60a7)
+
+
+
+
